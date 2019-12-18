@@ -17,3 +17,4 @@ python Grad_cam_CNN.py <target_image_dir> <output_image_dir> <model_path> <layer
 
 <h3> Examples </h3>
 
+![Input image](/examples/1.jpg)   ![Output image](/examples/1.jpg_conv_pw_13_relu_gradcam.jpg) 
